@@ -1,0 +1,18 @@
+.feature {
+  display: flex;
+  margin-right: 30px;
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+.feature__icon {
+  width: 41px;
+  margin-right: 11px;
+}
+
+.feature__text {
+  font-size: 16px;
+  max-width: 90px;
+}
