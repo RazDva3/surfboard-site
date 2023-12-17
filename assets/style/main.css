@@ -35,8 +35,9 @@ section {
 }
 
 .section-delivery {
-  background-image: url(/assets/img/bg-delivery.png);
+  background-image: url(../../../assets/img/bg-delivery.png);
   background-size: cover;
+  background-position: center;
 }
 
 html,
@@ -106,8 +107,9 @@ img {
 }
 
 .hero {
-  background: url(/assets/img/bg-hero.png) no-repeat;
+  background: url(../../../assets/img/bg-hero.png) no-repeat;
   background-size: cover;
+  background-position: center;
   min-height: 650px;
   color: #ffffff;
 }
